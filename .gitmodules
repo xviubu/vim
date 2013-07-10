@@ -25,3 +25,6 @@
 [submodule "bundle/nerdcommenter"]
 	path = bundle/nerdcommenter
 	url = git@github.com:scrooloose/nerdcommenter.git
+[submodule "bundle/NrrwRgn"]
+	path = bundle/NrrwRgn
+	url = git@github.com:chrisbra/NrrwRgn.git
