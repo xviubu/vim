@@ -7,3 +7,6 @@
 [submodule "bundle/c"]
 	path = bundle/c
 	url = git@github.com:vim-scripts/c.vim.git
+[submodule "bundle/taglist"]
+	path = bundle/taglist
+	url = git@github.com:vim-scripts/taglist.vim.git
