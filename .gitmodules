@@ -46,3 +46,6 @@
 [submodule "bundle/vimwiki"]
 	path = bundle/vimwiki
 	url = git@github.com:vim-scripts/vimwiki.git
+[submodule "bundle/vim-organizer"]
+	path = bundle/vim-organizer
+	url = git@github.com:hsitz/VimOrganizer.git
