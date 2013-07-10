@@ -22,3 +22,6 @@
 [submodule "bundle/csExplorer"]
 	path = bundle/csExplorer
 	url = git@github.com:sjas/csExplorer.git
+[submodule "bundle/nerdcommenter"]
+	path = bundle/nerdcommenter
+	url = git@github.com:scrooloose/nerdcommenter.git
