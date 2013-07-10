@@ -10,3 +10,6 @@
 [submodule "bundle/taglist"]
 	path = bundle/taglist
 	url = git@github.com:vim-scripts/taglist.vim.git
+[submodule "bundle/bash-support"]
+	path = bundle/bash-support
+	url = git@github.com:vim-scripts/bash-support.vim.git
