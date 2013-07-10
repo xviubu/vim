@@ -49,3 +49,6 @@
 [submodule "bundle/vim-organizer"]
 	path = bundle/vim-organizer
 	url = git@github.com:hsitz/VimOrganizer.git
+[submodule "bundle/javacomplete"]
+	path = bundle/javacomplete
+	url = git@github.com:vim-scripts/javacomplete.git
