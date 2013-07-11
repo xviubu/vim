@@ -58,3 +58,6 @@
 [submodule "bundle/velocity"]
 	path = bundle/velocity
 	url = https://github.com/lepture/vim-velocity.git
+[submodule "bundle/snipmate"]
+	path = bundle/snipmate
+	url = git@github.com:msanders/snipmate.vim.git
