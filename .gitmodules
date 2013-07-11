@@ -61,3 +61,6 @@
 [submodule "bundle/snipmate"]
 	path = bundle/snipmate
 	url = git@github.com:msanders/snipmate.vim.git
+[submodule "bundle/markdown"]
+	path = bundle/markdown
+	url = git@github.com:plasticboy/vim-markdown.git
